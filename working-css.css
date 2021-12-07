@@ -1,0 +1,171 @@
+/*@import url('https://fonts.googleapis.com/css2?family=PT+Sans&display=swap');*/
+
+/*body {*/
+/*    background: bisque;*/
+/*    color: black;*/
+
+/*    font-size: 16px;*/
+/*    font-weight: normal;*/
+/*    font-family: 'PT Sans', sans-serif;*/
+
+/*}*/
+
+/*.pic {*/
+/*    width: 100px;*/
+/*    border-radius: 50%;*/
+/*    box-shadow: 0px 0px 199px 25px ;*/
+/*}*/
+
+/*#ss {*/
+/*    letter-spacing: 5px;*/
+/*    font-style: italic;*/
+/*}*/
+/*h1 {*/
+/*    background: white;*/
+/*    width: 20px*/
+/*}*/
+/*h1:hover {*/
+/*    color: blue;*/
+/*    text-decoration: underline black;*/
+/*}*/
+
+/*.kn {*/
+/*    background: black;*/
+/*    color: white;*/
+/*    margin-top: 36px;*/
+/*    border: 1px solid red;*/
+/*    padding: 7px 15px;*/
+
+/*}*/
+/*.kn:hover {*/
+/*    opacity: 0.8;*/
+/*}*/
+
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Source+Sans+3:wght@300&display=swap');
+
+body {
+    background: #5b6264;
+}
+
+h1{
+    font-size: 370%;
+    font-family: Algerian;
+    text-align: center;
+}
+
+.col {
+    color: #2b2b2b;
+}
+
+
+h2 {
+    margin: 0px 100px;
+    font-size: 220%;
+    font-weight: bolder;
+    color: #292929;
+}
+
+p,ol {
+    margin: 5px 0px 0px 30px;
+    font-size: 23px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+li {
+    margin-top: -4%;
+    margin-bottom: -2%;
+}
+
+a {
+    text-decoration: none;
+    font-size: 20px
+}
+
+.div {
+    border-radius: 40px;
+    padding: 30px 80px 30px 0px;
+    background: rgba(238, 152, 135, 0.75);
+    /*margin-bottom: 15px;*/
+    width: 700px;
+    /*margin-left: 100px;*/
+    margin: 25px 0px 16px 70px;
+
+}
+
+#q {
+    margin-bottom: 13px;
+
+}
+
+#w {
+    background: #2ca3c7;
+    margin-left: 280px;
+    box-shadow: 0px 0px 80px 10px rgb(85, 195, 200);
+}
+
+#e {
+    background: #8ad6a5;
+    margin-left: 165px;
+    box-shadow: 0px 0px 80px 10px rgb(138, 212, 157);
+}
+#r {
+    box-shadow: 0px 0px 80px 10px rgba(255,155,155,0.62);
+}
+
+#big {
+    display: flex;
+}
+
+img {
+    width: 200px;
+    border-radius: 28px;
+}
+
+#text {
+    margin-top: 20px;
+    padding-left: 70px;
+    font-family: Cambria;
+}
+
+#pic1 {
+    width: 280px;
+    margin-top: 10px;
+    margin-left: 20px;
+    box-shadow: 0px 0px 15px 0.01px;
+}
+
+#pic2 {
+    position: absolute;
+    right: 240px;
+    top: 270px;
+    width: 200px;
+    box-shadow: 0px 0px 15px 0.01px;
+
+}
+
+#pic3 {
+    position: absolute;
+    margin-top: 320px;
+    right: 480px;
+    width: 250px;
+    box-shadow: 0px 0px 15px 0.01px;
+}
+
+#pic4 {
+    position: absolute;
+    right: 145px;
+    top: 510px;
+    width: 310px;
+    box-shadow: 0px 0px 15px 0.01px;
+}
+
+img:hover {
+    border: 1px solid red;
+}
+
+.div:hover {
+    border: 2px solid red;
+}
